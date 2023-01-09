@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cristian-franco
 - 👀 I’m interested in Data Engineering and Virtual Reality
 - 🌱 I’m currently learning C# and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source data projects
 - 📫 How to reach me: cristianfranco.cf@gmail.com
 
 <!---
