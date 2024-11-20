@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @cristian-franco
-- 👀 I’m interested in Data Engineering and creating Video Games.
-- 🌱 I’m currently learning Python and AWS RDS.
-- 💞️ I’m looking to collaborate on open source data projects
+- 👀 I’m currently working at a Tech Startup.
+- 👾 I'm also currently working on creating Video Games in my free time.
+- 🌱 I’m currently learning Go and Godot.
+- 👀 I’m looking to hear about new and interesting opportunities! 
 - 📫 How to reach me: cristianfranco.cf@gmail.com
 
 <!---
