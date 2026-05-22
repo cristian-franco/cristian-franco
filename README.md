@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @cristian-franco
-- 👀 I’m currently working at a Tech Startup.
-- 👾 I'm also currently working on creating Video Games in my free time.
-- 🌱 I’m currently learning Go and Godot.
-- 👀 I’m looking to hear about new and interesting opportunities! 
+- 👀 I’m currently working at ATOMS on the Data Science Team.
+- 🌱 I’m currently growing as a Data Engineer!
 - 📫 How to reach me: cristianfranco.cf@gmail.com
 
 <!---
